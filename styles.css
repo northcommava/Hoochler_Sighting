@@ -1,0 +1,57 @@
+/* General page styling */
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  margin: 0;
+  background-color: #f4f4f4;
+  color: #222;
+}
+
+/* Header */
+.site-header {
+  background-color: #111;
+  color: white;
+  padding: 15px 20px;
+}
+
+.logo {
+  margin: 0;
+  font-size: 20px;
+  letter-spacing: 1px;
+}
+
+/* Article container */
+.article-container {
+  max-width: 800px;
+  background: white;
+  margin: 40px auto;
+  padding: 30px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+/* Headline */
+.headline {
+  font-size: 36px;
+  line-height: 1.2;
+  margin-bottom: 10px;
+}
+
+/* Byline */
+.byline {
+  color: gray;
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+/* Image */
+.article-image {
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+/* Article text */
+.article-content p {
+  font-size: 18px;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
